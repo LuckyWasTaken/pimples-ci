@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pimples/static/css/main.9064c9de.css",
+    "main.js": "/pimples/static/js/main.fb6d30a2.js",
+    "static/js/787.baa6725f.chunk.js": "/pimples/static/js/787.baa6725f.chunk.js",
+    "index.html": "/pimples/index.html",
+    "main.9064c9de.css.map": "/pimples/static/css/main.9064c9de.css.map",
+    "main.fb6d30a2.js.map": "/pimples/static/js/main.fb6d30a2.js.map",
+    "787.baa6725f.chunk.js.map": "/pimples/static/js/787.baa6725f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9064c9de.css",
+    "static/js/main.fb6d30a2.js"
+  ]
+}
