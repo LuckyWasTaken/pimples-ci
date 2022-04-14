@@ -17,6 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://luckywastaken.github.io/pimples-ci",
   "eslintConfig": {
     "extends": [
       "react-app",
