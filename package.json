@@ -23,6 +23,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://luckywastaken.github.io/pimples-ci",
   "browserslist": {
     "production": [
       ">0.2%",
